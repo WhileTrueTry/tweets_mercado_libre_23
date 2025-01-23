@@ -5,12 +5,6 @@ Este repositorio contiene un conjunto de 23844 tweets recopilados como parte de 
 
 ---
 
-## **Estructura del repositorio**  
-- `tweets_ml_2023.csv`: Archivo principal con los tweets en formato CSV.  
-- `README.md`: Información general sobre el dataset y su uso.  
-
----
-
 ## **Detalles del dataset**  
 El conjunto de datos incluye:  
 - **Fechas**: Tweets recolectados entre el 1 de enero de 2023 y el 13 de abril de 2023.  
@@ -47,7 +41,7 @@ Este conjunto de datos puede ser utilizado para:
 - **Modelado de tópicos**: Clasificar conversaciones relacionadas con Mercado Libre.  
 - **Análisis de redes**: Explorar la interacción entre usuarios a través de menciones, respuestas y retweets.  
 
-> Si quieres ver qué hice yo con este dataset, hay una presentación adjunta mostrando algunas cosas ;)
+> Si te interesa ver qué hice yo con este dataset, hay una presentación adjunta mostrando algunas cosas ;)
 
 ---
 
