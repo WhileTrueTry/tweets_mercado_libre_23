@@ -1,6 +1,6 @@
 # Tweets sobre Mercado Libre Argentina (Ene 2023 - Abr 2023)  
 
-Este repositorio contiene un conjunto de datos recopilados como parte de un proyecto de análisis de las comunidades de discusión en torno a **Mercado Libre Argentina**. Los tweets abarcan el período **del 1 de enero de 2023 al 13 de abril de 2023**.  
+Este repositorio contiene un conjunto de 23844 tweets recopilados como parte de un proyecto de análisis de las comunidades de discusión en torno a **Mercado Libre Argentina**. Los tweets abarcan el período **del 1 de enero de 2023 al 13 de abril de 2023**.  
 
 ---
 
